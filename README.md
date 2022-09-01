@@ -1,4 +1,4 @@
-<h1 align="center">Olá, eu sou Felipe Moura. Estou estudando FullStack na DigitalHouseBrasil</h1>
+<h1 align="center">Olá, eu sou Felipe Moura. Sou um FullStack Júnior pela DigitalHouse Brasil</h1>
 
 <div align="center">
   <a href="https://github.com/feldevmoura">

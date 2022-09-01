@@ -18,7 +18,6 @@
 <h2 align="center">Aprendendo</h2>
  <div align="center" style="display: inline_block"><br>
   <img align="center" alt="Felipe-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-wordmark.svg">
 </div>
   ##
   
